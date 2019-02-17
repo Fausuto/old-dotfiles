@@ -1,5 +1,1 @@
-Hello
-
-Just a testing message saying that this is my first time using git so please don't be too harsh. I want to learn.
-
-Please and Thank You
+Where I will hold my dotfiles for my devices
